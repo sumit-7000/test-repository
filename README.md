@@ -1,2 +1,3 @@
 # test-repository
-it is use to test & learn to git 
+it use to test & learn to git 
+we tested most of the scenarios 
